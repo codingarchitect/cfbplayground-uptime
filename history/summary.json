@@ -4,19 +4,19 @@
     "url": "https://cfbplayground.santhanandaswamigal.org",
     "icon": "https://icons.duckduckgo.com/ip3/cfbplayground.santhanandaswamigal.org.ico",
     "slug": "cfbplayground",
-    "status": "down",
-    "uptime": "99.92%",
-    "uptimeDay": "99.92%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.92%",
-    "uptimeYear": "99.92%",
-    "time": 1694,
-    "timeDay": 1694,
-    "timeWeek": 1694,
-    "timeMonth": 1694,
-    "timeYear": 1694,
+    "status": "up",
+    "uptime": "99.07%",
+    "uptimeDay": "99.07%",
+    "uptimeWeek": "99.07%",
+    "uptimeMonth": "99.07%",
+    "uptimeYear": "99.07%",
+    "time": 1634,
+    "timeDay": 1634,
+    "timeWeek": 1634,
+    "timeMonth": 1634,
+    "timeYear": 1634,
     "dailyMinutesDown": {
-      "2025-02-24": 0
+      "2025-02-24": 1
     }
   }
 ]
